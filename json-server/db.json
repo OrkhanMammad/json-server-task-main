@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nurlan Nəzərov",
+      "phone": "055-555-55-55",
+      "email": "Nurlan@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Kamran Vəliyev",
+      "phone": "055-555-55-55",
+      "email": "Emin@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Rauf Qurbanov",
+      "phone": "055-555-55-55",
+      "email": "Aqil@gmail.com"
+    },
+    {
+      "name": "Uğur Nəzərov",
+      "phone": "055-555-55-55",
+      "email": "Ugur@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Leyla Veliyeva",
+      "phone": "0774586977",
+      "email": "Leyla@gmail.com",
+      "id": 6
+    }
+  ]
+}
